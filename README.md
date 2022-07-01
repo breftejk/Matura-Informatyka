@@ -11,7 +11,7 @@ Aktualny postęp prac:
 | Arkusz                         | Zadanie z programowania                       | Zadanie z użyciem Excel                   | Zadanie z użyciem Access          |
 |--------------------------------|-----------------------------------------------|-------------------------------------------|-----------------------------------|
 | Matura Czerwiec 2022           | ✅<br/> Rozwiązanie zadań dostępne: **Python** | ❌<br/>Dostępna jest tylko część rozwiązań | ❌<br/>Zadania nie zostały zaczęte |
-| Matura Maj 2022                | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte | ❌<br/>Zadania nie zostały zaczęte |
+| Matura Maj 2022                | ✅<br/> Rozwiązanie zadań dostępne: **Python**             | ❌<br/>Zadania nie zostały zaczęte | ❌<br/>Zadania nie zostały zaczęte |
 | Przykładowy Arkusz Matura 2023 | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte | ❌<br/>Zadania nie zostały zaczęte |
 | Matura Czerwiec 2021           | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte | ❌<br/>Zadania nie zostały zaczęte |
 | Matura Maj 2021                | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte | ❌<br/>Zadania nie zostały zaczęte |

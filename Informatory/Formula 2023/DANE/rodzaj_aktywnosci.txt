@@ -1,0 +1,27 @@
+ID_aktywnosci	nazwa_aktywnosci
+1	aqua aerobik
+2	boks
+3	cycling
+4	flamenco
+5	gimnastyka kregos³upa
+6	joga
+7	lodowisko
+8	masaz
+9	nordic walking
+10	pilates
+11	plywanie
+12	rolki
+13	sauna
+14	scianka wspinaczkowa
+15	silownia
+16	squash
+17	step
+18	stretching
+19	sztangi
+20	sztuki walki
+21	tabata
+22	tai chi
+23	taniec solo
+24	taniec w parach
+25	turbospalanie
+26	zumba

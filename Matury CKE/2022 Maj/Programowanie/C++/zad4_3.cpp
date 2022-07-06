@@ -45,13 +45,13 @@ int main()
             if(u==w)continue;
             if(w%u!=0)continue;
             for(auto x: numbersList){
-                if(w==x)continue;
+                if(w==x || u==x)continue;
                 if(x%w!=0)continue;
                 for(auto y: numbersList){
-                    if(x==y)continue;
+                    if(x==y || w==y || u==y)continue;
                     if(y%x!=0)continue;
                     for(auto z: numbersList){
-                        if(y==z)continue;
+                        if(y==z || x==z || w==z || u==z)continue;
                         if(z%y!=0)continue;
                         piatkiCount += 1;
                     }

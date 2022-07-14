@@ -12,8 +12,6 @@ int main()
     ifstream dane("C:/Matury-Informatyka/Matury CKE/2021 Czerwiec/DANE/napisy.txt");
     // ifstream dane("C:/Matury-Informatyka/Matury CKE/2021 Czerwiec/DANE/przyklad.txt");
 
-    string resultText;
-
     string text;
 
     int xCount = 0;

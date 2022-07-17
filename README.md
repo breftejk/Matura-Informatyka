@@ -17,7 +17,7 @@ Aktualny postęp prac:
 | Matura Maj 2021                 | ✅<br/> Rozwiązania zadań dostępne: **C++**         | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
 | Matura Próbna Marzec 2021       | ✅<br/> Rozwiązania zadań dostępne: **C++**                  | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
 | Matura Operon Listopad 2020     | ✅<br/> Rozwiązania zadań dostępne: **C++**                  | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
-| Matura Lipiec 2020              | ❌<br/>Zadania nie zostały zaczęte                  | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
+| Matura Lipiec 2020              | ✅<br/> Rozwiązania zadań dostępne: **C++**                  | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
 | Matura Czerwiec 2020            | ❌<br/>Zadania nie zostały zaczęte                  | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
 | Matura Próbna Kwiecień 2020     | ❌<br/>Zadania nie zostały zaczęte                  | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
 | Matura Czerwiec 2019            | ❌<br/>Zadania nie zostały zaczęte                  | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |

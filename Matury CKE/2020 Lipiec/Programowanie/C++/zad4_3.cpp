@@ -33,7 +33,7 @@ int main()
     // wczytaj identyfikatory z struktur¹ Identyfikator na vector
     vector<Identyfikator> identyfikatory = wczytaj_dane();
 
-    // rozwi¹zanie
+    // rozwiazanie
     vector<Identyfikator> poprawneIdentyfikatory;
 
     vector<int> wagi = {7, 3, 1, NULL, 7, 3, 1, 7, 3};

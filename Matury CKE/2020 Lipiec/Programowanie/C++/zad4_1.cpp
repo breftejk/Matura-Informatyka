@@ -31,7 +31,7 @@ int main()
     // wczytaj identyfikatory z struktur¹ Identyfikator na vector
     vector<Identyfikator> identyfikatory = wczytaj_dane();
 
-    // rozwi¹zanie
+    // rozwiazanie
     int maxSuma = 0;
     vector<Identyfikator> maxIdentyfikatory;
 

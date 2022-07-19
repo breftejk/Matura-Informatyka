@@ -1,0 +1,13 @@
+4.1.
+Najmniejsza: 1
+Najwieksza: 1056392131
+
+4.2.
+Najwieksza dlugosc fragmentu regularnego: 17
+Pierwsza liczba: 193134524
+Ostatnia liczba: 223545714
+
+4.3.
+Najczestsza luka: 31
+Wartosci luk:
+11 149

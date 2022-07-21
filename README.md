@@ -23,7 +23,7 @@ Aktualny postęp prac:
 | Matura Czerwiec 2019            | ✅<br/> Rozwiązania zadań dostępne: **C++**         | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
 | Matura Maj 2019                 | ✅<br/> Rozwiązania zadań dostępne: **C++**         | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
 | Matura Czerwiec 2018            | ✅<br/> Rozwiązania zadań dostępne: **C++**         | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
-| Matura Maj 2018                 | ❌<br/>Zadania nie zostały zaczęte                  | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
-| Matura Czerwiec 2017            | ❌<br/>Zadania nie zostały zaczęte                  | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
-| Matura Maj 2017                 | ❌<br/>Zadania nie zostały zaczęte                  | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
+| Matura Maj 2018                 | ✅<br/> Rozwiązania zadań dostępne: **C++**         | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
+| Matura Czerwiec 2017            | ✅<br/> Rozwiązania zadań dostępne: **C++**         | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
+| Matura Maj 2017                 | ✅<br/> Rozwiązania zadań dostępne: **C++**         | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
 

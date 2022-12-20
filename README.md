@@ -2,7 +2,7 @@
 
 Zbiór rozwiązań zadań maturalnych z informatyki.
 
-Kooperuj, aby rozszerzać bazę zadanie! Wyślij Pull Request lub poproś nas o rozwiązanie danego zadania.
+Kooperuj, aby rozszerzać bazę zadań! Wyślij Pull Request lub poproś nas o rozwiązanie danego zadania.
 
 <hr/>
 

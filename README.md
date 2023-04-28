@@ -14,7 +14,7 @@ Aktualny postęp prac:
 | Matura Maj 2022                 | ✅<br/> Rozwiązania zadań dostępne: **Python, C++** | ❌<br/>Dostępna jest tylko część rozwiązań     | ❌<br/>Zadania nie zostały zaczęte          |
 | Przykładowy Arkusz Matura 2023  | ✅<br/> Rozwiązania zadań dostępne: **Python, C++** | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
 | Matura Czerwiec 2021            | ✅<br/> Rozwiązania zadań dostępne: **Python, C++** | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
-| Matura Maj 2021                 | ✅<br/> Rozwiązania zadań dostępne: **C++**         | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
+| Matura Maj 2021                 | ✅<br/> Rozwiązania zadań dostępne: **Python, C++** | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
 | Matura Próbna Marzec 2021       | ✅<br/> Rozwiązania zadań dostępne: **C++**         | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
 | Matura Operon Listopad 2020     | ✅<br/> Rozwiązania zadań dostępne: **C++**         | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
 | Matura Lipiec 2020              | ✅<br/> Rozwiązania zadań dostępne: **Python, C++** | ❌<br/>Zadania nie zostały zaczęte             | ❌<br/>Zadania nie zostały zaczęte          |
